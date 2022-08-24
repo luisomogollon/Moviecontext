@@ -49,7 +49,7 @@ export default function View() {
               </p>
               <p class=" text-sm  tracking-wide  font-semibold italic mt-2">
                 {" "}
-                <b className="not-italic font-bold text-end ">Reviw:</b> <br />
+                <b className="not-italic font-bold text-end ">review:</b> <br />
                 {item?.review}
               </p>
             </div>

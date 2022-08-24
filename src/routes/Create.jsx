@@ -154,7 +154,7 @@ function Create() {
                   htmlFor="message"
                   className="leading-7 text-sm text-gray-400"
                 >
-                  eview
+                  Review
                 </label>
                 <textarea
                   type="text"

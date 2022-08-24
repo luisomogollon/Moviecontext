@@ -11,7 +11,7 @@ export default function View() {
   useEffect(() => {
     const movie = store.getItem(params.movieId);
     setItem(movie);
-  // eslint-disable-next-line react-hooks/exhaustive-deps
+  //  eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   return (
